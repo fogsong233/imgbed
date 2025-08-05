@@ -1,0 +1,81 @@
+<svg style="overflow: visible;" class="typst-doc" viewBox="0 0 54.000 47.000" width="54.000" height="47.000" data-width="54.000" data-height="47.000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:h5="http://www.w3.org/1999/xhtml"><style type="text/css">.typst-text {
+  pointer-events: bounding-box;
+}
+
+.tsel span,
+.tsel {
+  left: 0;
+  position: fixed;
+  text-align: justify;
+  white-space: nowrap;
+  width: 100%;
+  height: 100%;
+  text-align-last: justify;
+  color: transparent;
+  white-space: pre;
+}
+.tsel span::-moz-selection,
+.tsel::-moz-selection {
+  color: transparent;
+  background: #7db9dea0;
+}
+.tsel span::selection,
+.tsel::selection {
+  color: transparent;
+  background: #7db9dea0;
+}
+.pseudo-link {
+  fill: transparent;
+  cursor: pointer;
+  pointer-events: all;
+}
+svg {
+  fill: none;
+}
+
+.outline_glyph path,
+path.outline_glyph {
+  fill: var(--glyph_fill);
+  stroke: var(--glyph_stroke);
+}
+
+.outline_glyph path,
+path.outline_glyph {
+  transition: 0.2s fill stroke;
+}
+.hover .typst-text {
+  --glyph_fill: #66bab7;
+  --glyph_stroke: #66bab7;
+}
+
+.typst-jump-ripple,
+.typst-debug-react-ripple {
+  width: 0;
+  height: 0;
+  background-color: transparent;
+  position: absolute;
+  border-radius: 50%;
+}
+.typst-jump-ripple {
+  border: 1px solid #66bab7;
+}
+.typst-debug-react-ripple {
+  border: 1px solid #cb1b45;
+}
+@keyframes typst-jump-ripple-effect {
+  to {
+    width: 10vw;
+    height: 10vw;
+    opacity: 0.01;
+    margin: -5vw;
+  }
+}
+@keyframes typst-debug-react-ripple-effect {
+  to {
+    width: 3vw;
+    height: 3vw;
+    opacity: 0.01;
+    margin: -1.5vw;
+  }
+}
+</style><defs class="glyph"><path id="g0WmIVwgL" class="outline_glyph" d="M 498 144 C 498 153 493 158 482 158 C 474 158 468 151 465 137 C 445 58 421 18 394 18 C 377 18 368 32 368 60 C 368 73 372 97 381 132 L 438 357 C 443 376 445 387 445 392 C 445 412 434 422 412 422 C 391 422 377 410 370 387 C 349 424 319 442 281 442 C 216 442 159 409 109 343 C 63 281 40 217 40 150 C 40 63 91 -11 175 -11 C 218 -11 260 12 300 58 C 311 20 345 -11 392 -11 C 461 -11 482 70 498 144 Z M 341 374 C 350 353 355 339 355 330 C 355 326 354 321 353 314 L 304 122 C 301 111 294 99 285 87 C 248 41 212 18 177 18 C 138 18 118 48 118 107 C 118 131 124 167 136 215 C 157 300 187 357 224 388 C 244 405 263 413 282 413 C 309 413 329 400 341 374 Z "/><path id="g0WmIVwkL" class="outline_glyph" d="M 281 445 C 245 445 209 428 174 394 L 243 679 C 241 688 238 694 226 694 C 193 694 120 685 107 684 C 92 682 84 675 84 660 C 84 650 93 645 112 645 C 131 645 157 646 157 632 C 157 628 152 608 143 571 L 63 249 C 52 207 47 173 47 148 C 47 62 93 -11 175 -11 C 240 -11 297 22 347 89 C 392 151 415 216 415 283 C 415 370 364 445 281 445 Z M 279 415 C 318 415 337 385 337 326 C 337 299 331 263 319 218 C 297 133 268 75 233 44 C 213 27 194 19 175 19 C 134 19 114 51 114 115 C 114 137 119 170 129 214 L 151 304 C 154 319 159 330 165 338 C 204 389 242 415 279 415 Z "/><path id="g0WmIVwoL" class="outline_glyph" d="M 328 325 C 328 300 341 287 368 287 C 404 287 427 318 427 354 C 427 410 368 442 308 442 C 239 442 176 412 122 353 C 68 294 41 229 41 159 C 41 61 106 -11 204 -11 C 257 -11 304 2 345 27 C 379 48 404 69 420 90 C 427 99 430 106 430 109 C 430 120 425 126 414 126 C 409 126 404 122 398 114 C 365 70 324 42 277 30 C 246 22 223 18 206 18 C 149 18 121 53 121 122 C 121 184 150 274 174 317 C 198 361 249 413 308 413 C 346 413 372 402 386 381 C 355 378 328 358 328 325 Z "/><path id="g0WmIVwsL" class="outline_glyph" d="M 429 632 L 370 389 C 349 426 320 445 281 445 C 216 445 159 412 109 345 C 63 283 40 218 40 151 C 40 63 91 -11 175 -11 C 218 -11 260 12 300 59 C 311 21 345 -11 392 -11 C 461 -11 483 71 498 145 C 498 154 493 159 483 159 C 474 159 468 152 465 138 C 445 59 421 19 394 19 C 377 19 368 33 368 60 C 368 75 370 91 374 107 L 516 679 L 516 683 C 513 690 507 694 499 694 C 476 694 434 690 374 683 C 363 682 357 674 357 660 C 357 650 366 645 384 645 C 403 645 429 646 429 632 Z M 341 376 C 351 355 356 341 356 332 C 355 328 354 323 353 316 L 304 122 C 301 111 294 99 285 87 C 248 42 212 19 177 19 C 138 19 118 49 118 108 C 118 132 124 168 136 216 C 157 301 187 359 224 390 C 244 407 263 415 282 415 C 309 415 329 402 341 376 Z "/><path id="g0WmIV98W" class="outline_glyph" d="M 660 -946 C 675 -946 682 -939 682 -924 C 682 -917 679 -911 674 -907 C 606 -856 545 -777 490 -670 C 393 -480 320 -209 320 65 L 320 435 C 320 560 335 686 364 813 C 416 1043 523 1293 674 1407 C 679 1411 682 1417 682 1424 C 682 1439 675 1446 660 1446 C 656 1446 652 1444 647 1441 C 574 1386 505 1304 440 1195 C 327 1005 226 718 226 435 L 226 65 C 226 -202 320 -477 422 -664 C 490 -787 565 -880 647 -941 C 652 -944 656 -946 660 -946 Z "/><path id="g0WmIV+AW" class="outline_glyph" d="M 89 -941 C 162 -886 231 -804 296 -695 C 409 -506 510 -218 510 65 L 510 435 C 510 702 416 977 314 1164 C 246 1287 171 1380 89 1441 C 84 1444 80 1446 76 1446 C 61 1446 54 1439 54 1424 C 54 1417 57 1411 62 1407 C 130 1356 191 1277 246 1170 C 343 980 416 709 416 435 L 416 65 C 416 -60 401 -186 372 -313 C 320 -543 213 -793 62 -907 C 57 -911 54 -917 54 -924 C 54 -939 61 -946 76 -946 C 80 -946 84 -944 89 -941 Z "/></defs><defs class="clip-path"></defs><style type="text/css"></style><g class="typst-page" transform="translate(0, 0)" data-tid="p4plWp1D7alkRJoOiNA7Rnw" data-page-width="54" data-page-height="47"><g data-tid="g4plWp1D7alkRJoOiNA7Rnw" class="typst-group"><g transform="translate(10.000,10.000)" data-tid="py/hO/U2KDkkIOieVOHsQGs"><g data-tid="gy/hO/U2KDkkIOieVOHsQGs" class="typst-group"><g transform="translate(0.000,0.000)" data-tid="pTpB2iIH8OdwLpj+f5OgqfY"><g data-tid="gTpB2iIH8OdwLpj+f5OgqfY" class="typst-group"><g transform="translate(0.000,15.906)" data-tid="pGLQR9AeKJ/ESZMKwiPAEZU"><g data-tid="gGLQR9AeKJ/ESZMKwiPAEZU" class="typst-text" fill="#000" transform="scale(0.011,-0.011)"><use x="0" href="#g0WmIV98W"/><g transform="scale(16,-16)"><foreignObject x="0" y="-50.38" width="46.00" height="62.50"><h5:div class="tsel" style="font-size: 62px">(</h5:div></foreignObject></g></g></g><g transform="translate(8.096,9.328)" data-tid="pIiZ61bWL9OovHwzsqM3Iyk"><g data-tid="gIiZ61bWL9OovHwzsqM3Iyk" class="typst-text" fill="#000" transform="scale(0.011,-0.011)"><use x="0" href="#g0WmIVwgL"/><g transform="scale(16,-16)"><foreignObject x="0" y="-50.38" width="33.06" height="62.50"><h5:div class="tsel" style="font-size: 62px">𝑎</h5:div></foreignObject></g></g></g><g transform="translate(8.486,22.484)" data-tid="pLtdoK9fMrqcHqoaE9SSN1M"><g data-tid="gLtdoK9fMrqcHqoaE9SSN1M" class="typst-text" fill="#000" transform="scale(0.011,-0.011)"><use x="0" href="#g0WmIVwoL"/><g transform="scale(16,-16)"><foreignObject x="0" y="-50.38" width="28.62" height="62.50"><h5:div class="tsel" style="font-size: 62px">𝑐</h5:div></foreignObject></g></g></g><g transform="translate(19.971,9.328)" data-tid="p5oUMelyk3M84PC5pu53qFQ"><g data-tid="g5oUMelyk3M84PC5pu53qFQ" class="typst-text" fill="#000" transform="scale(0.011,-0.011)"><use x="0" href="#g0WmIVwkL"/><g transform="scale(16,-16)"><foreignObject x="0" y="-50.38" width="27.69" height="62.50"><h5:div class="tsel" style="font-size: 62px">𝑏</h5:div></foreignObject></g></g></g><g transform="translate(19.415,22.484)" data-tid="phh3ZaECKjysLKhC386wN8Q"><g data-tid="ghh3ZaECKjysLKhC386wN8Q" class="typst-text" fill="#000" transform="scale(0.011,-0.011)"><use x="0" href="#g0WmIVwsL"/><g transform="scale(16,-16)"><foreignObject x="0" y="-50.38" width="34.00" height="62.50"><h5:div class="tsel" style="font-size: 62px">𝑑</h5:div></foreignObject></g></g></g><g transform="translate(25.399,15.906)" data-tid="pxF9pn3blmzwTTCtD70yl6M"><g data-tid="gxF9pn3blmzwTTCtD70yl6M" class="typst-text" fill="#000" transform="scale(0.011,-0.011)"><use x="0" href="#g0WmIV+AW"/><g transform="scale(16,-16)"><foreignObject x="0" y="-50.38" width="46.00" height="62.50"><h5:div class="tsel" style="font-size: 62px">)</h5:div></foreignObject></g></g></g><g transform="translate(0.000,0.000)" data-tid="p38zs22vyCa4+8BQvM7NglU"><g data-tid="g38zs22vyCa4+8BQvM7NglU" class="typst-content-hint" data-hint="a"></g></g></g></g><g transform="translate(0.000,0.000)" data-tid="p38zs22vyCa4+8BQvM7NglU"><g data-tid="g38zs22vyCa4+8BQvM7NglU" class="typst-content-hint" data-hint="a"></g></g></g></g></g></g></svg>
